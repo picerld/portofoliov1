@@ -4,6 +4,7 @@ module.exports = {
     themes: ["light"],
   },
   content: ["index.html"],
+  darkMode: 'class',
   theme: {
     container: {
       center: true,
